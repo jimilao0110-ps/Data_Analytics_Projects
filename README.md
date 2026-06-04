@@ -5,9 +5,9 @@ This repository showcases a collection of data analytics projects where <b>Micro
 
 To present the data, I utilized various data visualization tools, including:
 
-<b>Microsoft Excel</b> (dashboards, charts, and pivot tables)</p>
-</p><b>Tableau</b> (interactive dashboards and storytelling)</p>
-</p><b>Power BI</b> (dynamic reports and business intelligence solutions)</p>
+<b>Microsoft Excel</b> (data cleaning, transformation, dashboard, charts, and pivot tables)</p>
+</p><b>Tableau</b> (charts, interactive dashboard)</p>
+</p><b>Power BI</b> (charts, interactive dashboard)</p>
 
 Each project is designed around a specific industry dataset and highlights key insights, trends, and patterns relevant to that domain. The goal is to communicate data clearly and support data-driven decision-making.
 </body>
