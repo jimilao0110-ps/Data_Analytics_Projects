@@ -2,7 +2,7 @@
 ## Project Objective
 The main goal of this project is to analyze global e-commerce sales data to understand business performance, identify sales trends, evaluate profitability across regions, track product demand, and measure delivery efficiency. The objective is to transform raw transactional data into an interactive dashboard that supports data-driven decisions, highlights growth opportunities, and pinpoints operational gaps.
 ## Dataset Used
-[E-com_Sales](https://github.com/jimilao0110-ps/Data_Analytics_Projects/blob/main/Ecommerce_Sales_Dashboard-Excel/E-com_Sales.xlsx)
+[E-commerce Sales Dataset](https://github.com/jimilao0110-ps/Data_Analytics_Projects/blob/main/Ecommerce_Sales_Dashboard-Excel/E-com_Sales.xlsx)
 ## Questions / Key Performance Indicators (KPIs)
 This analysis answers the following business questions and tracks these core metrics:
 1. **Overall Performance**
