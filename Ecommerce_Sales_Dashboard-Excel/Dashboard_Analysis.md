@@ -2,7 +2,7 @@
 ## Project Objective
 The main goal of this project is to analyze global e-commerce sales data to understand business performance, identify sales trends, evaluate profitability across regions, track product demand, and measure delivery efficiency. The objective is to transform raw transactional data into an interactive dashboard that supports data-driven decisions, highlights growth opportunities, and pinpoints operational gaps.
 ## Dataset Used
-[Ecom_Sales_Dashboard](https://github.com/jimilao0110-ps/E-commerce_Sales_Dashboard/blob/main/Ecom_Sales_Dashboard.xlsx)
+[Ecom_Sales_Dashboard](https://github.com/jimilao0110-ps/Data_Analysis_Dashboard/blob/main/Ecommerce_Sales_Dashboard-Excel/Ecom_Sales_Dashboard.xlsx)
 ## Questions / Key Performance Indicators (KPIs)
 This analysis answers the following business questions and tracks these core metrics:
 1. **Overall Performance**
@@ -64,7 +64,7 @@ This analysis answers the following business questions and tracks these core met
 7. **Testing & Validation**: Verified accuracy of calculations and ensured all filters work correctly.
 
 ## Dashboard
-![E-commerce Sales Dashboard](https://github.com/jimilao0110-ps/E-commerce_Sales_Dashboard/blob/main/Ecom_Sales_Dashboard.PNG)
+![E-commerce Sales Dashboard](https://github.com/jimilao0110-ps/Data_Analysis_Dashboard/blob/main/Ecommerce_Sales_Dashboard-Excel/Ecom_Sales_Dashboard.PNG)
 
 ## Project Insight
 1. **Seasonal Pattern**: Sales peak significantly in **Q4 (October–December)** due to holiday demand, while January–February show the lowest performance.
