@@ -2,7 +2,7 @@
 ## Project Objective
 This project aims to analyze and visualize hospital admission data to understand patient trends, demographics, admission patterns, outcomes, and origins. The goal is to provide clear, data-driven insights that support operational planning, resource allocation, healthcare service improvement, and decision-making for hospital management and healthcare administrators.
 ## Dataset Used
-[Hospital_Admission Dataset](https://github.com/jimilao0110-ps/Data_Analytics_Projects/blob/main/Hospital_Admission_Dashboard-Power%20BI/Hospital_Admission_data.xlsx)
+[Hospital Admission Dataset](https://github.com/jimilao0110-ps/Data_Analytics_Projects/blob/main/Hospital_Admission_Dashboard-Power%20BI/Hospital_Admission_data.xlsx)
 ## Questions / Key Performance Indicators (KPIs)
 1. How has the number of admissions changed year-over-year and month-over-month?
 2. What is the split between emergency and OPD admissions?
