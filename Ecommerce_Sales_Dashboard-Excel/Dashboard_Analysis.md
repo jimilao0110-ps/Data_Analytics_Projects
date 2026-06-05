@@ -64,7 +64,7 @@ This analysis answers the following business questions and tracks these core met
 7. **Testing & Validation**: Verified accuracy of calculations and ensured all filters work correctly.
 
 ## Dashboard
-![E-commerce Sales Dashboard](https://github.com/jimilao0110-ps/Data_Analysis_Dashboard/blob/main/Ecommerce_Sales_Dashboard-Excel/Ecom_Sales_Dashboard.PNG)
+![E-commerce Sales Dashboard](https://github.com/jimilao0110-ps/Data_Analysis_Dashboard/blob/main/Ecommerce_Sales_Dashboard-Excel/EcomSales_Dashboard.PNG)
 
 ## Project Insight
 1. **Seasonal Pattern**: Sales peak significantly in **Q4 (October–December)** due to holiday demand, while January–February show the lowest performance.
