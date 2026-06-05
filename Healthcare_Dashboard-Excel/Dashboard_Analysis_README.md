@@ -6,7 +6,7 @@ To process, clean, and analyze raw healthcare data, then build an interactive da
 
 ## Dataset Used
 
-[Healthcare_Dataset](https://github.com/jimilao0110-ps/Data_Analytics_Projects/blob/main/Healthcare_Dashboard-Excel/Healthcare_Dashboard.xlsx)
+[Healthcare Dataset](https://github.com/jimilao0110-ps/Data_Analytics_Projects/blob/main/Healthcare_Dashboard-Excel/Healthcare_Dashboard.xlsx)
 
 ## Questions & Key Performance Indicators (KPIs)
 ### Core Questions
