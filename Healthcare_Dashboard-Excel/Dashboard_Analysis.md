@@ -6,7 +6,7 @@ To process, clean, and analyze raw healthcare data, then build an interactive da
 
 ## Dataset Used
 
-[Healthcare_Dashboard.xlsx](https://github.com/jimilao0110-ps/Healthcare_Dashboard/blob/main/healthcare_dataset_raw.xlsx)
+[Healthcare_Dashboard.xlsx](https://github.com/jimilao0110-ps/Data_Analysis_Dashboard/blob/main/Healthcare_Dashboard-Excel/healthcare_dataset_raw.xlsx)
 
 ## Questions & Key Performance Indicators (KPIs)
 ### Core Questions
@@ -36,7 +36,7 @@ To process, clean, and analyze raw healthcare data, then build an interactive da
     - Filter controls (by month and year)
     - Dynamic visuals that update based on user selection
 ## Dashboard
-![Healthcare Dashboard](https://github.com/jimilao0110-ps/Healthcare_Dashboard/blob/main/Healthcare_Dashboard.PNG)
+![Healthcare Dashboard](https://github.com/jimilao0110-ps/Data_Analysis_Dashboard/blob/main/Healthcare_Dashboard-Excel/Healthcare_Dashboard.PNG?raw=true)
 ## Project Insights
 - **Patient Volume**: Overall patient numbers remain stable year-round, with a noticeable drop in May; counts recovered and rose through the rest of the year.
 - **Medical Conditions**: Hypertension and Obesity show the highest prevalence, followed closely by Diabetes; all conditions increased gradually from 2019 to 2023, with a slight decline in 2024.
