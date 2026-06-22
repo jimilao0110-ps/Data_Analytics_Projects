@@ -37,7 +37,7 @@ The main goal of this project is to analyze and visualize key characteristics of
     - Emerging fields like Blockchain & Web3 have smaller but notable representation.
 5. **Experience**:
     - **Mid-level** talent dominates — both in total and field-specific experience — meaning the pool is rich in candidates with practical experience.
-    - Senior-level talent is scarce, especially in field-specific expertise.
+    - **Senior-level** talent is scarce, especially in field-specific expertise.
 6. **Demographics**:
     - Average age is ~32, indicating a relatively young, active workforce.
     - Gender imbalance exists (male majority), with growing representation of other identities.
