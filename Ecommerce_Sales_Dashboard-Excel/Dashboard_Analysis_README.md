@@ -31,7 +31,7 @@ This analysis answers the following business questions and tracks these core met
 
     - How many units are sold each month?
 
-    - What is the total volume of products sold (Grand Total: **896 units**)?
+    - What is the total volume of products sold?
 
 5. **Operational Efficiency:**
 
@@ -71,9 +71,9 @@ This analysis answers the following business questions and tracks these core met
 
 2. **Regional Leaders**:
 
-    - **Asia** generates the highest revenue ($1.33M).
+    - **Middle East** generates the highest revenue ($1.34M).
 
-    - **Middle East** delivers the strongest profit margins.
+    - **Asia** delivers the strongest profit margins.
 
     - **North America** and **Europe** are stable, consistent contributors.
    
